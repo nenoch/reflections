@@ -1,3 +1,9 @@
+
+
 What happens when you initialize a repository? Why do you need to do it?
 
 A .git file is added. It will store all the meta data regarding the commit history of the repositiory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a way ob sub-divide files. It is different because enable the coder to create more repositories within a single working directory.
